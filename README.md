@@ -1,3 +1,3 @@
-# Bharat-pay-taiwindcss
+# Bharat-pay-tailwindcss
 
 
